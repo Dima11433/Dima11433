@@ -62,27 +62,27 @@ magnat@server:~$ neofetch --profile
 
 ---
 
-### 🚀 Разработки и сервисы
+### 🚀 Избранные веб-проекты
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🛡️ Telegram Garant Bot</h4>
-      <p>Автоматизированная система безопасных P2P и B2B сделок 24/7 с мгновенным арбитражем и защитой сторон.</p>
+      <h4>🪙 <a href="https://github.com/Dima11433/crypto-3d-converter">3D Crypto Converter</a></h4>
+      <p>Интерактивный 3D-конвертер криптовалют и фиата на Three.js с реальными курсами Wise API и звуковым движком.</p>
     </td>
     <td width="50%">
-      <h4>💳 Payments Integration</h4>
-      <p>Интеграции платежных шлюзов, работа со звездами Telegram (Stars) и криптовалютными эквайрингами.</p>
+      <h4>⚔️ <a href="https://github.com/Dima11433/cortez-family-site">Majestic RP Portals</a></h4>
+      <p>Игровые веб-порталы сообществ с фоновым видеорядом, интерактивной статистикой и промокодами.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛍️ Digital Shop & WebApp</h4>
-      <p>Автоматическая доставка цифровых товаров, управление каталогом и удобные Telegram WebApp интерфейсы.</p>
+      <h4>💅 <a href="https://github.com/Dima11433/diana-nails">Diana Nails Portfolio</a></h4>
+      <p>Сайт-портфолио мастера маникюра с интерактивным каталогом работ и прайс-листом услуг.</p>
     </td>
     <td width="50%">
-      <h4>🌐 magnat.portfolio</h4>
-      <p>Персональный сайт разработчика в темном стиле с интерактивной командной строкой и встроенным плеером.</p>
+      <h4>🌐 <a href="https://github.com/Dima11433/magnat.portfolio">magnat.portfolio</a></h4>
+      <p>Персональный сайт разработчика с интерактивным терминалом, переключателем тем и звуковыми эффектами.</p>
     </td>
   </tr>
 </table>
