@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="36" height="36" /> Привет, мир! Я MAGNAT (.DEV)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=Founder+of+Glock+Projects;Python+%26+Telegram+Bot+Architect;Fullstack+WebApp+Developer;Coding+24%2F7+under+good+music+%F0%9F%8E%A7;Building+Digital+Monopoly+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=Python+%26+Telegram+Bot+Architect;Fullstack+WebApp+Developer;Coding+24%2F7+under+good+music+%F0%9F%8E%A7;Building+Digital+Ecosystem+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://t.me/ggg468q"><img src="https://img.shields.io/badge/Telegram-@ggg468q-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -17,11 +17,11 @@
 ### ⚡ Обо мне / Terminal Info
 
 ```bash
-magnat@glock-os:~$ neofetch --profile
-  /\_/\       magnat@glock-server
+magnat@server:~$ neofetch --profile
+  /\_/\       magnat@server
  ( o.o )      -------------------
-  > ^ <       OS: Glock OS x86_64
-              Role: Founder & Lead Developer @ Glock Projects
+  > ^ <       OS: Arch Linux x86_64
+              Role: Fullstack & Telegram Bot Architect
               Focus: Telegram Bots • Mini Apps • Escrow • FinTech
               Main Stack: Python 3.12+ (Aiogram), TypeScript, WebApp
               Soundtrack: Focus Beats & Phonk 🎧
@@ -62,22 +62,22 @@ magnat@glock-os:~$ neofetch --profile
 
 ---
 
-### 🏰 Экосистема Glock Projects
+### 🚀 Разработки и сервисы
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🛡️ Glock Garant Bot</h4>
+      <h4>🛡️ Telegram Garant Bot</h4>
       <p>Автоматизированная система безопасных P2P и B2B сделок 24/7 с мгновенным арбитражем и защитой сторон.</p>
     </td>
     <td width="50%">
-      <h4>💳 Glock Payments</h4>
+      <h4>💳 Payments Integration</h4>
       <p>Интеграции платежных шлюзов, работа со звездами Telegram (Stars) и криптовалютными эквайрингами.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛍️ Glock Models & Shops</h4>
+      <h4>🛍️ Digital Shop & WebApp</h4>
       <p>Автоматическая доставка цифровых товаров, управление каталогом и удобные Telegram WebApp интерфейсы.</p>
     </td>
     <td width="50%">
