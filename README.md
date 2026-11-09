@@ -62,27 +62,17 @@ magnat@server:~$ neofetch --profile
 
 ---
 
-### 🚀 Избранные веб-проекты
+### 🚀 Избранные сайты и проекты
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🪙 <a href="https://github.com/Dima11433/crypto-3d-converter">3D Crypto Converter</a></h4>
+      <h4>🪙 <a href="https://github.com/Dima11433/crypto-3d-converter">Крипто Обменник</a></h4>
       <p>Интерактивный 3D-конвертер криптовалют и фиата на Three.js с реальными курсами Wise API и звуковым движком.</p>
     </td>
     <td width="50%">
-      <h4>⚔️ <a href="https://github.com/Dima11433/cortez-family-site">Majestic RP Portals</a></h4>
+      <h4>⚔️ <a href="https://github.com/Dima11433/cortez-family-site">CORTEZ FAMq</a></h4>
       <p>Игровые веб-порталы сообществ с фоновым видеорядом, интерактивной статистикой и промокодами.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>💅 <a href="https://github.com/Dima11433/diana-nails">Diana Nails Portfolio</a></h4>
-      <p>Сайт-портфолио мастера маникюра с интерактивным каталогом работ и прайс-листом услуг.</p>
-    </td>
-    <td width="50%">
-      <h4>🌐 <a href="https://github.com/Dima11433/magnat.portfolio">magnat.portfolio</a></h4>
-      <p>Персональный сайт разработчика с интерактивным терминалом, переключателем тем и звуковыми эффектами.</p>
     </td>
   </tr>
 </table>
